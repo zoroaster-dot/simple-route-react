@@ -35,10 +35,10 @@ const UserDetailPages = () => {
             Username: {user?.username}
           </div>
           <div>
-            Id: {user?.id}
+            Email: {user?.email}
           </div>
           <div>
-            Email: {user?.email}
+            Company: {user?.company}
           </div>
         </>
     </div>
